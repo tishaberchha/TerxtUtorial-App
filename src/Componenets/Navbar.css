@@ -1,0 +1,17 @@
+.colour{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 5px;
+    margin-right: 20px;
+}
+.c1{
+    background-color: #81478d;
+}
+.c2{
+    background-color: #226a77;
+}
+.c3{
+    background-color: #b64d1d;
+}
