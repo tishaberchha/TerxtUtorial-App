@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtorial-App/static/css/main.f72dbcac.css",
+    "main.js": "/TextUtorial-App/static/js/main.c5b92f3b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextUtorial-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextUtorial-App/index.html",
+    "main.f72dbcac.css.map": "/TextUtorial-App/static/css/main.f72dbcac.css.map",
+    "main.c5b92f3b.js.map": "/TextUtorial-App/static/js/main.c5b92f3b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextUtorial-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72dbcac.css",
+    "static/js/main.c5b92f3b.js"
+  ]
+}
